@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2791" started-at="2020-06-08T23:40:59 PDT" finished-at="2020-06-08T23:41:02 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2791" started-at="2020-06-08T23:40:59 PDT" finished-at="2020-06-08T23:41:02 PDT">
+      <class name="JiraTests">
+        <test-method status="PASS" signature="jiraLogin()[pri:0, instance:JiraTests@2a17b7b6]" name="jiraLogin" duration-ms="2748" started-at="2020-06-08T23:40:59 PDT" finished-at="2020-06-08T23:41:02 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiraLogin -->
+      </class> <!-- JiraTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
